@@ -269,12 +269,12 @@ header p {
     cursor: pointer;
   }
   .main {
-    height: 100vh;
+    height: 100%;
     min-height: 790px;
     z-index: 0;
   }
   .main::after {
-    height: 100vh;
+    height: 100%;
     min-height: 790px;
   }
   .nav-container {
