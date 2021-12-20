@@ -4,9 +4,9 @@ function About() {
       <div className="max-w-5xl mx-auto px-3 md:px-5">
         <h2 className="text-3xl pb-4 font-bold">About</h2>
         <p className=" font-[500] text-xs sm:text-sm  md:text-[15px]">
-          Hi, My name is Matt, i'm a self-taught Front-End devloper. <br />
+          Hi, My name is Matt, I'm a self-taught Front-End devloper. <br />
           <br />
-          Learning to code has been an enjoyable and rewarding experiance. I Now
+          Learning to code has been an enjoyable and rewarding experience. I Now
           feel at a point where I can build multipage websites with my HTML &
           CSS skills. I have also spent time learning and practicing JavaScript
           (including working with API's), functional programming and object
