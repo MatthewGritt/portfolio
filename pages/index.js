@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className=" h-screen my-5">
       <Head>
-        <title>Create Next App</title>
+        <title>Matt portfolio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
