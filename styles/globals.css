@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.projectBtn {
+  border: 1px solid black;
+  font-weight: 500;
+  text-align: center;
+  font-size: 18px;
+  width: 120px;
+  padding: 3px 1px;
+}
+
+.projectBtn:hover {
+  background: black;
+  color: white;
+  transition: all;
+  transition-duration: 0.2s;
+}
+
+/* border font-normal text-center border-black text-[18px] 
+w-[120px] p-1 hover:bg-black hover:text-white transition-all duration-150 */
