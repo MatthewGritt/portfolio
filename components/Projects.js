@@ -26,7 +26,7 @@ function Projects() {
               target="_blank"
               className="projectBtn"
             >
-              Source code
+              Source Code
             </a>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Projects() {
               target="_blank"
               className="projectBtn"
             >
-              Source code
+              Source Code
             </a>
           </div>
         </div>
@@ -79,7 +79,7 @@ function Projects() {
               target="_blank"
               className="projectBtn"
             >
-              Source code
+              Source Code
             </a>
           </div>
         </div>
@@ -104,7 +104,7 @@ function Projects() {
               target="_blank"
               className="projectBtn"
             >
-              Source code
+              Source Code
             </a>
           </div>
         </div>
