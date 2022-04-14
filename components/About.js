@@ -13,7 +13,7 @@ function About() {
           oriented programming. <br />
           <br /> I am aware that this is a fast growing industry, therefore I
           make sure to learn and use frameworks and tools such as React,
-          Tailwind and next js. <br />
+          Tailwind and Next js. <br />
           <br /> I am a developer because I enjoy creating and I'm inspired to
           be a better me today than I was yesterday.
         </p>
