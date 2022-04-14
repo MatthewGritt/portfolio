@@ -6,7 +6,7 @@ function About() {
         <p className=" font-[500] text-xs sm:text-sm  md:text-[15px]">
           Hi, My name is Matt, I'm a self-taught Front-End Developer. <br />
           <br />
-          Learning to code has been an enjoyable and rewarding experience. I Now
+          Learning to code has been an enjoyable and rewarding experience. I now
           feel at a point where I can build multi-page websites with my HTML &
           CSS skills. I have also spent time learning and practicing JavaScript
           (including working with API's), functional programming and object
