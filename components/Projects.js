@@ -7,22 +7,20 @@ function Projects() {
         <div className="  font-bold sm:mr-3 w-full mt-10">
           <img
             className=" object-contain"
-            src="/images/ebay-basket.png"
+            src="/images/hangman.png"
             alt="ebay pic"
           />
-          <p className="py-1 text-center bg-gray-100">
-            Ebay shopping cart in react
-          </p>
+          <p className="py-1 text-center bg-gray-100">Hangman in react</p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
-              href="https://ebay-clone.vercel.app/"
+              href="https://matthewgritt.github.io/hangman/"
               target="_blank"
               className="projectBtn"
             >
               See Live
             </a>
             <a
-              href="https://github.com/MatthewGritt/ebay-clone"
+              href="https://github.com/MatthewGritt/hangman"
               target="_blank"
               className="projectBtn"
             >
