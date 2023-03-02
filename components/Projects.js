@@ -3,8 +3,8 @@ function Projects() {
     <div className="hover:scale-100">
       {/* project flex 1 */}
       <div className="md:flex items-center text-lg sm:text-xl ">
-        {/* ebay */}
-        <div className="  font-bold sm:mr-3 w-full mt-10">
+        {/* hangman */}
+        <div className="  font-bold sm:mr-3 w-full mt-10 border-2">
           <img
             className=" object-contain"
             src="/images/hangman.png"
@@ -28,24 +28,26 @@ function Projects() {
             </a>
           </div>
         </div>
-        {/* weather  */}
-        <div className="font-bold sm:ml-3 w-full mt-10">
+        {/* inventory app  */}
+        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
           <img
             className="object-contain"
-            src="/images/weather.png"
+            src="/images/inventory.png"
             alt="weather pic"
           />
-          <p className="py-1 text-center bg-gray-100">Weather app</p>
+          <p className="py-1 text-center bg-gray-100">
+            MERN inventory managment web app
+          </p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
-              href="https://matthewgritt.github.io/weather/"
+              href="https://inventory-management-crzs.onrender.com/"
               target="_blank"
               className="projectBtn"
             >
               See Live
             </a>
             <a
-              href="https://github.com/MatthewGritt/weather"
+              href="https://github.com/MatthewGritt/Inventory-management-frontend"
               target="_blank"
               className="projectBtn"
             >
@@ -57,7 +59,7 @@ function Projects() {
       {/* project flex 2*/}
       <div className="md:flex items-center text-lg sm:text-xl">
         {/* todo list */}
-        <div className="mt-10 font-bold sm:mr-3">
+        <div className="mt-10 font-bold sm:mr-3 border-2">
           <img
             className=" object-contain"
             src="/images/todo.png"
@@ -82,7 +84,7 @@ function Projects() {
           </div>
         </div>
         {/* pairs */}
-        <div className="mt-10 font-bold sm:ml-3">
+        <div className="mt-10 font-bold sm:ml-3 border-2">
           <img
             className=" object-contain"
             src="/images/pairs.png"
@@ -110,7 +112,7 @@ function Projects() {
       {/* project flex 3*/}
       <div className="md:flex items-center text-lg sm:text-xl">
         {/* todo list */}
-        <div className="mt-10 font-bold sm:mr-3">
+        <div className="mt-10 font-bold sm:mr-3 border-2">
           <img
             className=" object-contain"
             src="/images/twitter.png"
@@ -135,7 +137,7 @@ function Projects() {
           </div>
         </div>
         {/* pairs */}
-        <div className="mt-10 font-bold sm:ml-3">
+        <div className="mt-10 font-bold sm:ml-3 border-2">
           <img
             className=" object-contain"
             src="/images/carousel.png"
