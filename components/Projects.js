@@ -47,7 +47,7 @@ function Projects() {
               See Live
             </a>
             <a
-              href="https://github.com/MatthewGritt/Inventory-management-frontend"
+              href="https://github.com/MatthewGritt/Inventory-management-backend"
               target="_blank"
               className="projectBtn"
             >
@@ -65,7 +65,9 @@ function Projects() {
             src="/images/todo.png"
             alt="facebook pic"
           />
-          <p className="py-1 text-center bg-gray-100">Todo list</p>
+          <p className="py-1 text-center bg-gray-100">
+            React todo List using redux
+          </p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
               href="https://matthewgritt.github.io/todo-list/"
