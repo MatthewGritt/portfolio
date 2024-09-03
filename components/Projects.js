@@ -41,10 +41,8 @@ function Projects() {
           <div className="flex items-center justify-evenly mt-2 ">
             <a
               href="#"
-              target="_blank"
               className="projectBtn"
-            >
-              See Live
+            > 
             </a>
             <a
               href="https://github.com/MatthewGritt/Inventory-management-backend"
