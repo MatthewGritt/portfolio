@@ -40,7 +40,7 @@ function Projects() {
           </p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
-              href=""
+              href="#"
               target="_blank"
               className="projectBtn"
             >
