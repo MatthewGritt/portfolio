@@ -43,7 +43,7 @@ function Projects() {
               href="#"
               className="projectBtn"
             > 
-                disabled
+                Disabled
             </a>
             <a
               href="https://github.com/MatthewGritt/Inventory-management-backend"
