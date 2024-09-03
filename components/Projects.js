@@ -29,7 +29,7 @@ function Projects() {
           </div>
         </div>
         {/* twitter */}
-        <div className="mt-10 font-bold sm:mr-3 border-2">
+        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
           <img
             className=" object-contain"
             src="/images/twitter.png"
@@ -112,7 +112,7 @@ function Projects() {
       {/* project flex 3*/}
       <div className="md:flex items-center text-lg sm:text-xl">
         {/* inventory app  */}
-        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
+        <div className="mt-10 font-bold sm:mr-3 border-2">
           <img
             className="object-contain"
             src="/images/inventory.png"
@@ -122,11 +122,8 @@ function Projects() {
             MERN inventory managment web app
           </p>
           <div className="flex items-center justify-evenly mt-2 ">
-            <a
-              href="#"
-              className="projectBtn"
-            > 
-                Disabled
+            <a href="#" className="projectBtn">
+              Disabled
             </a>
             <a
               href="https://github.com/MatthewGritt/Inventory-management-backend"
