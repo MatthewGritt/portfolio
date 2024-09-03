@@ -28,6 +28,36 @@ function Projects() {
             </a>
           </div>
         </div>
+        {/* inventory app  */}
+        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
+          <img
+            className="object-contain"
+            src="/images/inventory.png"
+            alt="weather pic"
+          />
+          <p className="py-1 text-center bg-gray-100">
+            MERN inventory managment web app
+          </p>
+          <div className="flex items-center justify-evenly mt-2 ">
+            <a
+              href=""
+              target="_blank"
+              className="projectBtn"
+            >
+              See Live
+            </a>
+            <a
+              href="https://github.com/MatthewGritt/Inventory-management-backend"
+              target="_blank"
+              className="projectBtn"
+            >
+              Source Code
+            </a>
+          </div>
+        </div>
+      </div>
+      {/* project flex 2*/}
+      <div className="md:flex items-center text-lg sm:text-xl">
         {/* todo list */}
         <div className="mt-10 font-bold sm:mr-3 border-2">
           <img
@@ -101,6 +131,31 @@ function Projects() {
             </a>
             <a
               href="https://github.com/MatthewGritt/twitter-clone"
+              target="_blank"
+              className="projectBtn"
+            >
+              Source Code
+            </a>
+          </div>
+        </div>
+        {/* pairs */}
+        <div className="mt-10 font-bold sm:ml-3 border-2">
+          <img
+            className=" object-contain"
+            src="/images/carousel.png"
+            alt="pairs pic"
+          />
+          <p className="py-1 text-center bg-gray-100">Carousel</p>
+          <div className="flex items-center justify-evenly mt-2 ">
+            <a
+              href="https://matthewgritt.github.io/carousel/"
+              target="_blank"
+              className="projectBtn"
+            >
+              See Live
+            </a>
+            <a
+              href="https://github.com/MatthewGritt/carousel"
               target="_blank"
               className="projectBtn"
             >
