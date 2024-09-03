@@ -28,25 +28,24 @@ function Projects() {
             </a>
           </div>
         </div>
-        {/* inventory app  */}
-        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
+        {/* twitter */}
+        <div className="mt-10 font-bold sm:mr-3 border-2">
           <img
-            className="object-contain"
-            src="/images/inventory.png"
-            alt="weather pic"
+            className=" object-contain"
+            src="/images/twitter.png"
+            alt="facebook pic"
           />
-          <p className="py-1 text-center bg-gray-100">
-            MERN inventory managment web app
-          </p>
+          <p className="py-1 text-center bg-gray-100">Twitter clone in react</p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
-              href="#"
+              href="https://twitter-clone-weld-seven.vercel.app/"
+              target="_blank"
               className="projectBtn"
-            > 
-                Disabled
+            >
+              See Live
             </a>
             <a
-              href="https://github.com/MatthewGritt/Inventory-management-backend"
+              href="https://github.com/MatthewGritt/twitter-clone"
               target="_blank"
               className="projectBtn"
             >
@@ -112,24 +111,25 @@ function Projects() {
       </div>
       {/* project flex 3*/}
       <div className="md:flex items-center text-lg sm:text-xl">
-        {/* todo list */}
-        <div className="mt-10 font-bold sm:mr-3 border-2">
+        {/* inventory app  */}
+        <div className="font-bold sm:ml-3 w-full mt-10 border-2">
           <img
-            className=" object-contain"
-            src="/images/twitter.png"
-            alt="facebook pic"
+            className="object-contain"
+            src="/images/inventory.png"
+            alt="weather pic"
           />
-          <p className="py-1 text-center bg-gray-100">Twitter clone in react</p>
+          <p className="py-1 text-center bg-gray-100">
+            MERN inventory managment web app
+          </p>
           <div className="flex items-center justify-evenly mt-2 ">
             <a
-              href="https://twitter-clone-weld-seven.vercel.app/"
-              target="_blank"
+              href="#"
               className="projectBtn"
-            >
-              See Live
+            > 
+                Disabled
             </a>
             <a
-              href="https://github.com/MatthewGritt/twitter-clone"
+              href="https://github.com/MatthewGritt/Inventory-management-backend"
               target="_blank"
               className="projectBtn"
             >
@@ -137,7 +137,7 @@ function Projects() {
             </a>
           </div>
         </div>
-        {/* pairs */}
+        {/* carousel */}
         <div className="mt-10 font-bold sm:ml-3 border-2">
           <img
             className=" object-contain"
